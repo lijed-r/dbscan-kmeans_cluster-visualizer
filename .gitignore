@@ -1,0 +1,4 @@
+git rm -r --cached venv/
+git add .gitignore
+git commit -m "Добавлен .gitignore, удалено venv из отслеживания"
+git push
