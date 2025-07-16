@@ -25,7 +25,10 @@
 
 ## Демонстрация
 
+# Dbscan
 ![dbscan](https://github.com/user-attachments/assets/4efd9f50-33fc-45ef-a268-75db1b77a249)
+
+# Kmeans
 ![kmeans](https://github.com/user-attachments/assets/c1e58984-91b7-44eb-a90b-a822990d46cb)
 
 ## Используемые технологии
